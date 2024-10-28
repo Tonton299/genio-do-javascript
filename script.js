@@ -17,3 +17,6 @@ button.addEventListener("click", () => {
         : "https://github.com/mariaccarolina/TurmaFDV/blob/main/imagens/lampada-com-mago.png?raw=true"
 })
 // operador ternario -condicional
+/*
+    comentario em varias linhas
+*/

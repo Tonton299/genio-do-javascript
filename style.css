@@ -31,4 +31,8 @@ button {
   font-size: 24px;
   border-radius: 30px;
   cursor: pointer;
+  font-family: "sevillana", cursive;
+}
+button:hover {
+  background-color: #B74794;
 }/*# sourceMappingURL=style.css.map */
